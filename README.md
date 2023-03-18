@@ -6,3 +6,5 @@ nibiru
 
 HAQQ
 celestia
+lava
+nibir
