@@ -8,3 +8,7 @@ HAQQ
 celestia
 lava
 nibir
+
+новые
+LayerZero
+Venom
